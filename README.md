@@ -1,31 +1,22 @@
-<div align="center"> 
+<h1 align="center">Hi 👋, I'm Minkey Son</h1>
+<h3 align="center">A passionate backend developer from Korea</h3>
 
-![header](https://capsule-render.vercel.app/api?type=slice&text=Hi!%20I'm%20Minkey!)
-<br/>
-📚**Tech Stack**📚 <br/>
-☁ Platforms & Languages☁️<br/>
-<div align="center">
-	<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white" />
- 	<img src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Naver_Cloud-03C75A?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMTA1NSIgaGVpZ2h0PSIzMjIuOCIgdmlld0JveD0iMCAwIDEwNTUgMzIyLjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTc4My41IDIzNC40bC0yNS41IDIybDM3LjggOTEuMmw2NC42LTMwLjItOTMuNi0zOC42LjctNjNMMC42IDExMWwtMy42IDYxLjIgMzkuNCA5NjcuNiA2My45LTEuNSA2LjItMzUuMSAyOS43IDI1LjIgMjIuMyAxLjUtMS43IDI3LjgtNjUuOSA5LjcgNjYuMSA2OS45LTI5LjMgMTEuNy02NS40IDI1LjItMjIuMy0uNy01Ljd6Ii8+PHBhdGggZD0iTTE0LjktMTg1YzcgNy05IDI1IDE3IDMxaDI1bDMtMjUtMjQtMTMuOSAxNC0xN3ptMTQ1LTE5Yy0xMC05LTI0IDM5LTM5IDU4bDIwIDIxIDM2LTIyLjctMTcgNTcgMzctNjYgMjAtNDEgMjUtMTEtMjYgMjh6Ii8+PHBhdGggZD0iTTEwNTQgMTY1LjJjLTQgMC04IDQtMTEgMC00LTEtNy00LTctOC0yLTYuMiA3LTMuNiAyLjMtMGwtOC0xMy42Yy04LTExLTE4IDQtMTkgMTR6Ii8+PC9zdmc+Cg==" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=Google-Cloud&logoColor=white" />
-  <br/>
-  <br/>
-  
+- 👨‍💻 All of my projects are available at [https://handmk.notion.site/Son-Min-Key-435f3bae425c4a9191b648e272c8cbc0?pvs=4](https://handmk.notion.site/Son-Min-Key-435f3bae425c4a9191b648e272c8cbc0?pvs=4)
 
+- 📝 I regularly write articles on [https://velog.io/@handmk](https://velog.io/@handmk)
 
-</div>
-  
- <br/>
- <br/>
- <br/>
-   <br/>
-   <br/>
-</div>
+- 📫 How to reach me **sonmingi135@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/hand_mk1115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hand_mk1115" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minkeyson&show_icons=true&locale=en&layout=compact" alt="minkeyson" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minkeyson&show_icons=true&locale=en" alt="minkeyson" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minkeyson&" alt="minkeyson" /></p>
