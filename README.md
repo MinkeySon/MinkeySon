@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://velog.io/@handmk](https://velog.io/@handmk)
 
-- 📫 How to reach me **sonmingi135@gmail.com**
+- 📫 How to reach me sonmingi135@gmail.com
 
 </p>
 
