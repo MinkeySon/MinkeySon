@@ -14,6 +14,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minkeyson&show_icons=true&locale=en&layout=compact" alt="minkeyson" /></p>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mk8567)](https://solved.ac/mk8567/)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minkeyson&show_icons=true&locale=en" alt="minkeyson" /></p>
 
 
