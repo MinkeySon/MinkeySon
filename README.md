@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minkey Son</h1>
 <h3 align="center">A passionate backend developer from Korea</h3>
 
-- 👨‍💻 All of my projects are available at [https://handmk.notion.site/Son-Min-Key-435f3bae425c4a9191b648e272c8cbc0?pvs=4](https://handmk.notion.site/Backend-Developer-1414c08d3392802aab20ecedb31ad35d)
+- 👨‍💻 All of my projects are available at [https://handmk.notion.site/Son-Min-Key-435f3bae425c4a9191b648e272c8cbc0?pvs=4](https://handmk.notion.site/435f3bae425c4a9191b648e272c8cbc0?pvs=4)
 
 - 📝 I regularly write articles on [https://velog.io/@handmk](https://velog.io/@handmk)
 
