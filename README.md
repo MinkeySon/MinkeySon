@@ -73,5 +73,3 @@
 ## 📬 Contact
 
 <a href="mailto:sonmingi135@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://hand-mk.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/></a>
-
