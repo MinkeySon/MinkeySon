@@ -30,7 +30,7 @@
 
 **Infra & DevOps**
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white"/>  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white"/>
 
 **AI**
 
@@ -44,7 +44,7 @@
 
 ## 🏆 Awards
 
-| Year | Award                               | Project       |  |
+| Year | Award                               | Project       |  Remark |
 |------|-------------------------------------|---------------|------|
 | 2024 | 멋쟁이사자처럼 대학 연합 아이디어톤 – **최우수상 (1위)** | `NEWSPECT`    | <a href="https://youtu.be/62aRn6VFvRM?si=GIufpyQn1luD7FWS"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a> |
 | 2024 | 교내 K-Project – **대상 (1위)**          | `KNBOT`       |      |
@@ -54,12 +54,12 @@
 
 ## 📜 Certifications
 
-| 취득일     | 자격증                    |
-|---------|------------------------|
-| 2026.03 | **AWS Certified Solutions Architect – Associate (SAA)**         |
-| 2025.10 | **리눅스 마스터 2급**         |
-| 2025.09 | **정보처리기사**             |
-| 2020.12 | **데이터 분석 준전문가 (ADsP)** |
+| 취득일     | 자격증                    | Remark |
+|---------|------------------------|------------------------|
+| 2026.03 | **AWS Certified Solutions Architect – Associate (SAA)** | <a href="https://www.credly.com/badges/098afa84-36f2-474d-a31e-e154fb0abd24/public_url"><img src="https://img.shields.io/badge/credly-FF6B00?style=flat&logo=credly&logoColor=white"/></a> |
+| 2025.10 | **리눅스 마스터 2급**         | |
+| 2025.09 | **정보처리기사**             | |
+| 2020.12 | **데이터 분석 준전문가 (ADsP)** | |
 
 ---
 
