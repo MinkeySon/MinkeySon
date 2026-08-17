@@ -7,17 +7,6 @@
 
 ---
 
-## 🏢 Experience
-
-| 기간                | 소속              | 역할                        |
-|-------------------|-----------------|---------------------------|
-| 2025.03 ~ 재직중     | **(주) 아이비리더스**  | Backend Engineer          |
-| 2024.03 ~ 2024.08 | **멋쟁이사자처럼 12기** | 본교 대표 · Backend Part      |
-| 2023.03 ~ 2023.08 | **멋쟁이사자처럼 11기** | Backend Part              |
-| 2020.09 ~ 2022.09 | **(주) 유성전자**    | 공정관리팀 · 설비 데이터 분석 / 시스템 관리 |
-
----
-
 ## 🏆 Awards
 
 | Year | Award                               | Project       |  Remark |
@@ -43,7 +32,7 @@
 
 **Backend**
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/QueryDSL-4479A1?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
 
 **Database**
 
